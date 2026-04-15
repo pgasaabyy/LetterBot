@@ -68,6 +68,7 @@ Escolha: 2
 Descrição: Um ex-assassino de aluguel sai da aposentadoria...
 
 Quer ver a avaliação? (sim/não)
+
 📂 Estrutura do projeto
 📁 letterbot
  ├── chatbot_filmes.py
