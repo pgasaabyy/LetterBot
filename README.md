@@ -32,6 +32,7 @@ Depois, o usuário pode selecionar um deles e visualizar a descrição e a avali
 ## ▶️ Como executar o projeto
 
 1. Certifique-se de ter o Python instalado:
+   
    ```bash
    python --version
 
@@ -68,10 +69,12 @@ Quer ver a avaliação? (sim/não)
 📁 letterbot
  ├── chatbot_filmes.py
  └── README.md
+ 
 ⚠️ Observações
 O programa roda apenas no terminal (não possui interface gráfica)
 Entrada inválida pode reiniciar o fluxo
 Ideal para fins de aprendizado em lógica e Python
+
 ✨ Melhorias futuras
 Adicionar mais gêneros
 Interface gráfica (GUI)
