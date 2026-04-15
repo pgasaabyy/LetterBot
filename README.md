@@ -44,9 +44,10 @@ Acesse a pasta do projeto:
 
  ```bash
 cd letterbot
-
+````
 Execute o programa:
 
+````bash
 python chatbot_filmes.py
   ````
 
