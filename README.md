@@ -42,11 +42,14 @@ git clone https://github.com/seu-usuario/letterbot.git
 
 Acesse a pasta do projeto:
 
+ ```bash
 cd letterbot
 
 Execute o programa:
 
 python chatbot_filmes.py
+  ````
+
 💬 Exemplo de uso
 Olá! Que alegria te ver por aqui!
 Eu sou seu amigo LetterBot e vou te ajudar a escolher um filme incrível.
